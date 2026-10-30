@@ -195,6 +195,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) | [**ICLR 2017**]
 
 **Quantization:**
+- [Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization](https://arxiv.org/abs/2610.31309) | [**arXiv 2026**]
+  + [VILA-Lab/optic](https://github.com/VILA-Lab/optic) | [PyTorch]
+
 - [Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets](https://arxiv.org/abs/1903.05662) | [**ICLR 2019**]
 
 - [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html) | [**CVPR 2018**]
